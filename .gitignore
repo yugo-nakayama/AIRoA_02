@@ -1,0 +1,3 @@
+outputs/*.mp4
+__pycache__/
+data/*.joblib

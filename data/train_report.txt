@@ -1,0 +1,13 @@
+              precision    recall  f1-score   support
+
+      circle      1.000     1.000     1.000       300
+      square      1.000     1.000     1.000       300
+    triangle      1.000     1.000     1.000       300
+
+    accuracy                          1.000       900
+   macro avg      1.000     1.000     1.000       900
+weighted avg      1.000     1.000     1.000       900
+
+[[300   0   0]
+ [  0 300   0]
+ [  0   0 300]]
