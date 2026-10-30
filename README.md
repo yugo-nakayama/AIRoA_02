@@ -20,3 +20,8 @@ Classifier test accuracy 100% (900 images) / sorting 15/15 / mean reach error ~2
 
 ## Genesis 3D version
 See `genesis3d/README.md` (Franka Panda + top RGB-D camera, physical grasping).
+
+## Demo (YouTube)
+- Genesis 3D: https://youtu.be/iVbuWvqwlQo
+- Local copy: `genesis3d/out/PAI_final_demo_repro_02_genesis.mp4`
+- GPU run: `./run_genesis_gpu.sh` (default 2 episodes)

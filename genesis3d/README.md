@@ -2,6 +2,10 @@
 
 2D版と同じ「AIで形を見分けて仕分ける」タスクを、Genesis の3D物理シミュレーションで実際に把持して行います。
 
+## Demo (YouTube)
+- https://youtu.be/iVbuWvqwlQo
+- Local copy: `out/PAI_final_demo_repro_02_genesis.mp4`
+
 ## 環境
 - Python 3.10〜3.12、NVIDIA GPU推奨（CPUでも動くが遅い）
 - `pip install torch genesis-world opencv-python scikit-learn joblib`
