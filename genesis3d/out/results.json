@@ -1,0 +1,183 @@
+{
+ "attempts": 18,
+ "grasps_ok": 12,
+ "classification_acc": 0.7777777777777778,
+ "placed_correct": 7,
+ "total_objects": 12,
+ "log": [
+  {
+   "episode": 1,
+   "attempt": 1,
+   "pred": "square",
+   "conf": 0.999,
+   "true": "circle",
+   "grasp_ok": true,
+   "finger_width_mm": 43.7,
+   "placed_in_correct_bin": false
+  },
+  {
+   "episode": 1,
+   "attempt": 2,
+   "pred": "triangle",
+   "conf": 0.999,
+   "true": "triangle",
+   "grasp_ok": true,
+   "finger_width_mm": 11.5,
+   "placed_in_correct_bin": false
+  },
+  {
+   "episode": 1,
+   "attempt": 3,
+   "pred": "triangle",
+   "conf": 0.999,
+   "true": "triangle",
+   "grasp_ok": true,
+   "finger_width_mm": 47.2,
+   "placed_in_correct_bin": true
+  },
+  {
+   "episode": 1,
+   "attempt": 4,
+   "pred": "triangle",
+   "conf": 0.925,
+   "true": "triangle",
+   "grasp_ok": false,
+   "finger_width_mm": -0.6
+  },
+  {
+   "episode": 1,
+   "attempt": 5,
+   "pred": "square",
+   "conf": 0.994,
+   "true": "triangle",
+   "grasp_ok": true,
+   "finger_width_mm": 28.2,
+   "placed_in_correct_bin": false
+  },
+  {
+   "episode": 1,
+   "attempt": 6,
+   "pred": "square",
+   "conf": 0.917,
+   "true": "square",
+   "grasp_ok": true,
+   "finger_width_mm": 39.8,
+   "placed_in_correct_bin": true
+  },
+  {
+   "episode": 1,
+   "attempt": 7,
+   "pred": "square",
+   "conf": 0.837,
+   "true": "square",
+   "grasp_ok": true,
+   "finger_width_mm": 39.8,
+   "placed_in_correct_bin": true
+  },
+  {
+   "episode": 1,
+   "attempt": 8,
+   "pred": "square",
+   "conf": 0.645,
+   "true": "circle",
+   "grasp_ok": true,
+   "finger_width_mm": 43.7,
+   "placed_in_correct_bin": false
+  },
+  {
+   "episode": 2,
+   "attempt": 1,
+   "pred": "circle",
+   "conf": 1.0,
+   "true": "circle",
+   "grasp_ok": true,
+   "finger_width_mm": 43.6,
+   "placed_in_correct_bin": true
+  },
+  {
+   "episode": 2,
+   "attempt": 2,
+   "pred": "square",
+   "conf": 1.0,
+   "true": "square",
+   "grasp_ok": true,
+   "finger_width_mm": 39.8,
+   "placed_in_correct_bin": true
+  },
+  {
+   "episode": 2,
+   "attempt": 3,
+   "pred": "triangle",
+   "conf": 0.999,
+   "true": "triangle",
+   "grasp_ok": false,
+   "finger_width_mm": -0.3
+  },
+  {
+   "episode": 2,
+   "attempt": 4,
+   "pred": "circle",
+   "conf": 0.969,
+   "true": "circle",
+   "grasp_ok": true,
+   "finger_width_mm": 43.7,
+   "placed_in_correct_bin": true
+  },
+  {
+   "episode": 2,
+   "attempt": 5,
+   "pred": "triangle",
+   "conf": 1.0,
+   "true": "triangle",
+   "grasp_ok": false,
+   "finger_width_mm": -0.3
+  },
+  {
+   "episode": 2,
+   "attempt": 6,
+   "pred": "triangle",
+   "conf": 0.999,
+   "true": "triangle",
+   "grasp_ok": false,
+   "finger_width_mm": -0.3
+  },
+  {
+   "episode": 2,
+   "attempt": 7,
+   "pred": "square",
+   "conf": 0.92,
+   "true": "triangle",
+   "grasp_ok": false,
+   "finger_width_mm": -0.3
+  },
+  {
+   "episode": 2,
+   "attempt": 8,
+   "pred": "square",
+   "conf": 0.998,
+   "true": "square",
+   "grasp_ok": true,
+   "finger_width_mm": 39.8,
+   "placed_in_correct_bin": true
+  },
+  {
+   "episode": 2,
+   "attempt": 9,
+   "pred": "triangle",
+   "conf": 1.0,
+   "true": "triangle",
+   "grasp_ok": true,
+   "finger_width_mm": 41.3,
+   "placed_in_correct_bin": false
+  },
+  {
+   "episode": 2,
+   "attempt": 10,
+   "pred": "triangle",
+   "conf": 0.999,
+   "true": "triangle",
+   "grasp_ok": false,
+   "finger_width_mm": -0.3
+  }
+ ]
+}
