@@ -1,7 +1,7 @@
-outputs/*.mp4
+.venv/
 __pycache__/
 data/*.joblib
-.venv/
+outputs/*.mp4
 genesis3d/__pycache__/
 genesis3d/out/*_raw.mp4
 genesis3d/out/genesis_raw.mp4
